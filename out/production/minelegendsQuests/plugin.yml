@@ -1,0 +1,6 @@
+name: Quests
+author: CodenameFlip
+version: 1.0.0
+main: us.minelegends.quests.Core
+commands:
+  quest:
